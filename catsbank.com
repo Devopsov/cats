@@ -1,7 +1,7 @@
 import requests
 
 BASE_URL = "https://catsbank.com/api/v1"
-API_TOKEN = "043212cat99483284say4712743meow20503751"
+APITOKEN = "043212cat99483284say4712743meow20503751"
 
 def test_get_account_balance():
     """
