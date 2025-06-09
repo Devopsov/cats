@@ -5,7 +5,7 @@ API_TOKEN = "043212cat99483284say4712743meow20503751"
 
 def test_get_account_balance():
     """
-    API Cats Bank
+    API catsbank.com
     """
     headers = {
         "Authorization": f"Bearer {API_TOKEN}",
